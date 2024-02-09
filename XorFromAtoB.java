@@ -8,7 +8,7 @@ public class XorFromAtoB {
     static int xorRange(int a){
         if(a%4 == 0){
             return a;
-        }
+        }//
         if(a%4 == 1){
             return 1;
         }
